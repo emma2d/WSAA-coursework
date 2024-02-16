@@ -1,1 +1,1 @@
-# Author Emma Dunleavy
+# WSAA-coursework
